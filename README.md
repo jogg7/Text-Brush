@@ -22,6 +22,11 @@ click with your left mouse then move the mouse to
 another location and press the right mouse. Then a 
 shape or line will be drawn.
 
+<h2> Source Code </h2>
+
+[View Source Code](https://github.com/jogg7/Text-Brush/blob/main/Source.cpp)
+
+
 <h2> Demo Video </h2>
 
 [Watch this video on YouTube](https://www.youtube.com/watch?v=XavpMTIQZvQ)
