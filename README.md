@@ -3,6 +3,8 @@ A Microsoft Paint like program in C++
 
 Created a Text Brush Program that works like Microft paint
 
+This project focueses on using classes, objects, and functions.
+
 <h2> Key Features </h2>
 
 - Draw Rectangles, Circles, and Lines
